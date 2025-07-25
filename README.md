@@ -1,5 +1,5 @@
 # 🧠 Codewars Solutions
-![Codewars](https://www.codewars.com/users/Josefbautista94/badges/large)
+[![Codewars](https://www.codewars.com/users/Josefbautista94/badges/large)](https://www.codewars.com/users/Josefbautista94)
 
 This repository contains my solutions to various coding challenges from [Codewars](https://www.codewars.com/), organized by language (Currently TypeScript and JavaScript).
 
