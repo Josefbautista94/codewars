@@ -9,6 +9,7 @@
 // Courtesy of projecteuler.net (Problem 1)
 
 function solution(number){
+  if(number < 1) return 0
   const numbers = Array.from({length:number}).map((_,i)=> i);
   const mults = numbers.filter(nums => nums % 3 ===0 || nums % 5 === 0 );
   const reduced = mults.reduce((a,b) => a+b );
